@@ -1,8 +1,8 @@
 manifest:
   remotes:
     # zmk official
-    - name: zmkfirmware
-      url-base: https://github.com/zmkfirmware
+    - name: abcdaaa1111
+      url-base: https://github.com/abcdaaa1111
       # bravekarma
     - name: caksoylar
       url-base: https://github.com/caksoylar
@@ -14,7 +14,7 @@ manifest:
       url-base: https://github.com/M165437
   projects:
     - name: zmk
-      remote: zmkfirmware
+      remote: abcdaaa1111
       revision: main
       import: app/west.yml
     - name: urchin-zmk-module
